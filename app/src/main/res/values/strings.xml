@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="launch_msg">Press to Begin</string>
+    <string name="welcome_msg">Welcom to my First App !</string>
+</resources>
